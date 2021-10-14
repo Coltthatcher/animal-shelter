@@ -22,3 +22,8 @@ img.main {
   float: right;
   background-color: yellow;
 }
+
+.column {
+  width: 300px;
+  float: right;
+}
