@@ -2,6 +2,23 @@
   color: red;
 }
 
-.contact {
+.name {
   color:turquoise
+}
+
+img {
+  size: 200px;
+  width: 30%;
+  height: auto;
+  float: center;  
+}
+
+img.main {
+  float: right;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
 }
